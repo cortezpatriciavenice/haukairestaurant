@@ -1,5 +1,0 @@
-AuthName "Secure directory"
-AuthUserFile /wamp64/www/BIT607_AS2_Website/htpasswd/.htpasswd
-AuthType Basic
-require valid-user
-
